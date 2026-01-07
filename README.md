@@ -2,11 +2,12 @@
 
 A modern, responsive portfolio website for frontend developers featuring smooth scrolling animations, dark/light theme toggle, and an elegant design. Built with vanilla HTML, CSS, and JavaScript, enhanced with GSAP animations and Lenis smooth scrolling.
 
-[![Live Demo]](https://aqeelsheikh.netlify.app)
+[![Live Demo]](https://aqeelsheikh.netlify.app) <br/>
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-![Portfolio Preview](<img width="1292" height="599" alt="image" src="https://github.com/user-attachments/assets/edc3227c-f150-41ab-b1d7-a1267d8e957d" />
-)
+Preview
+<img width="1275" height="593" alt="image" src="https://github.com/user-attachments/assets/37a0308d-6968-436b-963a-edf8433b6be1" />
+
 
 ## ✨ Features
 
